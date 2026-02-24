@@ -1,0 +1,11 @@
+C:\Users\bianc\OneDrive\Documentos\Paletas\CataOVOaegesLeaandroPlaca90
+Verdadeiro Positivo: 261283
+Falso Positivo: 154957
+Falso Negativo: 877605
+Verdadeiro Negativo: 150770144
+
+Recall: 0,22
+Acurácia: 0,99
+Precisão: 0,62
+Especificidade: 0,99
+F1 Score: 0,32
