@@ -1,0 +1,11 @@
+C:\Users\bianc\OneDrive\Documentos\Paletas\paleta-15.0-20230404T234000Z-001\paleta-15.0
+Verdadeiro Positivo: 738459
+Falso Positivo: 615266
+Falso Negativo: 452522
+Verdadeiro Negativo: 110321760
+
+Recall: 0,62
+Acurácia: 0,99
+Precisão: 0,54
+Especificidade: 0,99
+F1 Score: 0,57
